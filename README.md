@@ -55,7 +55,7 @@ There are defined the different endpoints to perform the following operations wi
 
 In the following link you can see the API working:
 
-* >>TODO  add link here
+* https://drive.google.com/file/d/1HOpY3-g2rA3ShofMz5rLik6D6y-xrtr8/view?usp=share_link
 
 
 ---
